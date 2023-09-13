@@ -1,0 +1,15 @@
+D:\Documentos\Patrones\PatternStrategy\PatternStrategy\obj\Debug\PatternStrategy.csproj.AssemblyReference.cache
+D:\Documentos\Patrones\PatternStrategy\PatternStrategy\obj\Debug\PatternStrategy.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Patrones\PatternStrategy\PatternStrategy\obj\Debug\PatternStrategy.csproj.CoreCompileInputs.cache
+D:\Documentos\Patrones\PatternStrategy\PatternStrategy\bin\Debug\PatternStrategy.exe.config
+D:\Documentos\Patrones\PatternStrategy\PatternStrategy\bin\Debug\PatternStrategy.exe
+D:\Documentos\Patrones\PatternStrategy\PatternStrategy\bin\Debug\PatternStrategy.pdb
+D:\Documentos\Patrones\PatternStrategy\PatternStrategy\obj\Debug\PatternStrategy.exe
+D:\Documentos\Patrones\PatternStrategy\PatternStrategy\obj\Debug\PatternStrategy.pdb
+C:\Users\Jesus\Documents\Patrones\PatternStrategy\PatternStrategy\bin\Debug\PatternStrategy.exe.config
+C:\Users\Jesus\Documents\Patrones\PatternStrategy\PatternStrategy\bin\Debug\PatternStrategy.exe
+C:\Users\Jesus\Documents\Patrones\PatternStrategy\PatternStrategy\bin\Debug\PatternStrategy.pdb
+C:\Users\Jesus\Documents\Patrones\PatternStrategy\PatternStrategy\obj\Debug\PatternStrategy.csproj.AssemblyReference.cache
+C:\Users\Jesus\Documents\Patrones\PatternStrategy\PatternStrategy\obj\Debug\PatternStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Documents\Patrones\PatternStrategy\PatternStrategy\obj\Debug\PatternStrategy.exe
+C:\Users\Jesus\Documents\Patrones\PatternStrategy\PatternStrategy\obj\Debug\PatternStrategy.pdb
